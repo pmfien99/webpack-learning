@@ -31,4 +31,4 @@ Some use cases may be:
 It is worth noting that Webpack is used in modern front end frameworks like React and Vue to accomplish the above tasks. 
 
 # Entry and Entry Points 
-
+This tells webpack where to look when starting to build the bundle (and dependency graphs).

@@ -4,8 +4,8 @@ After spending some time browsing the webpack docs for a project I'm working on,
 
 Webpack Docs: https://webpack.js.org/concepts/
 
-Video Reference: https://www.youtube.com/watch?v=IZGNcSuwBZs&t=803s
-
+Video References: 
+- https://www.youtube.com/watch?v=IZGNcSuwBZs&t=803s
 
 ## So far covered in this guide 
 - [x] What is webpack
@@ -19,6 +19,9 @@ Video Reference: https://www.youtube.com/watch?v=IZGNcSuwBZs&t=803s
 - [ ] Under The Hood
 
 # What is Webpack
+1) A Bundler
+2) A Dependency Manager 
+
 Webpack is a JavaScript module bundler used in web development to efficiently bundle and optimize assets like JavaScript, CSS, and images. It simplifies development by handling modular code, transpiling modern JavaScript, managing static assets, and integrating with other tools. With features like code splitting and hot module replacement, Webpack enhances performance and streamlines the development workflow. 
 
 Some use cases may be:
